@@ -25,6 +25,9 @@
 ### 03. lightGBM 회귀모델 적용
  * 코드 [Link](./20221207-baseline02.ipynb)
  * 결과 : 큰 성능 증가추세가 보이지 않았음.
- 
+
+
+### 04. 메모리 최적화(메모리 용량 감소화), 피처별 상관관계 확인, 교차검증
+  * 코드[Link]
 ### 04. gridresearchCV, crossValdation
  * 코드 [Link](./20221206-baseline.ipynb)
