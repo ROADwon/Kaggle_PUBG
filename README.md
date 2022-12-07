@@ -8,7 +8,7 @@
       > 매치타입별 플레이 난이도가 승률에 지대한 영향이 있기때문에 테스트 데이터에 필요하다고 판단함.
    * 02. 최적 모델 적용하기
      > RandomForestClassifier,DecisionClassifier,KNeighborNearest
- * 코드 [Link](./20221206-baseline.ipynb)
+ * 코드 [Link](./Projec_PUBG01.ipynb)
 
 ### 02. 최적화된 모델 선정 및 학습 (LightGBM)
  * 내용 
@@ -23,7 +23,8 @@
  * 코드 [Link](./20221206-baseline.ipynb)
  
 ### 03. lightGBM 회귀모델 적용
- * 코드 [Link](./20221206-baseline.ipynb)
+ * 코드 [Link](./20221207-baseline02.ipynb)
+ * 결과 : 큰 성능 증가추세가 보이지 않았음.
  
 ### 04. gridresearchCV, crossValdation
  * 코드 [Link](./20221206-baseline.ipynb)
